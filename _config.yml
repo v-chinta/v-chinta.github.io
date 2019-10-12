@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Threat Detection"
+title                    : "Risk Hunting"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Venkatesh Chinta"
-description              : "Threat Hunting, Red Team and Malware"
+description              : "Risk Hunting and Malware"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Venkatesh Chinta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Risk Hunting and Malware Analysis"
+  location         : "Trivandrum, Kerala"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/venkatesh-chinta-9a805935/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

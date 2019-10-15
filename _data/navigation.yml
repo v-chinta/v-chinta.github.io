@@ -1,11 +1,12 @@
 # main links
 main:
-  - title: "Technical"
-    url: "/Technical/"
-  - title: "Writeups"
-    url: "/writeups/"
   - title: "Posts"
     url: /year-archive/
+  - title: "Writeups"
+    url: "/writeups/"
+  - title: "By Category"
+    url: "/category/"
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

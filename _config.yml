@@ -108,7 +108,7 @@ timezone:   Asia/Calcutta
 # Site Author
 author:
   name             : "Venkatesh Chinta"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Working on Risk Hunting & Malware Analysis"
   location         : "Trivandrum, Kerala"
   email            :

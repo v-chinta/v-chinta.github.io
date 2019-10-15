@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Technical"
-    url: "Technical"
+    url: "/Technical/"
   - title: "Writeups"
-    url: "writeupfs"
+    url: "/writeups/"
   - title: "Posts"
     url: /year-archive/
   # - title: "Sample Collections"
